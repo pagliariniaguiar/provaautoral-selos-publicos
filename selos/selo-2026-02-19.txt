@@ -6,3 +6,7 @@ Hash do dia: 8587938903fd4fb11ac59ff33aab76c6242b20e5b2be0e3fc1e2e0009eb7b27f
 Hash anterior: 221bae392bb1c27e3d50a550cc673b087fe2f17d9816d932720dd28f4c719402
 Hash encadeado: df122101a18654f80f78df1145d85db9b896008f74fd8dfe65822a5f4a76d54d
 Gerado em (UTC): 2026-02-19 18:39:35
+
+SHA256 do TXT: e08893a62b814a6e8cbdd90c333e751c799d4d05fae5e7854e04800e582013bf
+Commit Git: 69694ef28de3bb786bbed045e85354eb387c2245
+URL pública: https://github.com/pagliariniaguiar/provaautoral-selos-publicos/blob/main/selos/selo-2026-02-19.txt
