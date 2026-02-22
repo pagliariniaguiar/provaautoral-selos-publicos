@@ -1,0 +1,8 @@
+SELO DIARIO PROVA AUTORAL
+
+Data (UTC): 2026-02-22
+Total registros: 1
+Hash do dia: fb46b0b7257eaeb1198b89bba139b18c442fb2d584a7cbc6553333ecc34aa848
+Hash anterior: 30f276c667d98e17a724b5adba37f4870930a45df3e213bb434372035220e0c5
+Hash encadeado: ec9e4f5cad423d475e24bc4b9ecd551d12e5aa8289ca800e0a262b2a071dc8f9
+Gerado em (UTC): 2026-02-22 00:33:57
